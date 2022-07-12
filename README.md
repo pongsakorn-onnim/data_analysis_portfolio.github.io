@@ -1,12 +1,65 @@
-# hello-world
-#My GitHub exploring.
-##Created by: Pongsakorn Onnim
-##Date: 2022-07-03
+# Pongsakorn Onnim - Data Analysis Portfolio
 
-**This is bold text**
+## About
 
-_This text is italicized_
+Hi, My name is Pongsakorn Onnim. I hold a Bachelor of Engineering (Environmental Engineering). I'm looking for a data analyst job. I have skills in data analyst tools such as Python, R, SQL, Spreadsheet, and Tableau. I completed Google Data Analytics Professional Certificate and Python for Everybody from Coursera and did hands-on projects from these courses.
 
-**This text is _extremely_ important**
+Here is a repository to showcase skills, share projects and track my progress in Data analytics topics.
 
-***All this text is important***
+
+## Table of contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+	+ [Analyzing Bike-Share Service](#video-games-sales-analysis)
+  + [Analyzing TV Data](#video-games-sales-analysis)
+  + [Building a Simple Search Engine](#video-games-sales-analysis)
+  + [Spidering and Modeling Email Data](#video-games-sales-analysis)
+- [Study Projects](#study-projects)  
+	+ [Google Data Analytics Professional Certificate](#kaggle-30-days-of-ml)
+	+ [Python for Everybody](#data-analyst-specialization)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
+
+## Portfolio Projects
+**Code:**
+**Description:**
+**Skills:*
+**Technology:**
+**Results:**
+
+### Analyzing Bike-Share Service
+**Code:**
+**Description:**
+**Skills:*
+**Technology:**
+**Results:**
+
+### Analyzing TV Data
+**Code:**
+**Description:**
+**Skills:*
+**Technology:**
+**Results:**
+
+### Building a Simple Search Engine
+**Code:**
+**Description:**
+**Skills:*
+**Technology:**
+**Results:**
+
+### Spidering and Modeling Email Data
+**Code:**
+**Description:**
+**Skills:*
+**Technology:**
+**Results:**
+
+## Certificates
+## Contacts
+- LinkedIn: []()
+- Telegram: []()
+- Twitter: []()
+- E-mail: pongsakorn.onnim@gmail.com
+
+
