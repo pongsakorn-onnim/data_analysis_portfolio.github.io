@@ -21,37 +21,32 @@ Here is a repository to showcase skills, share projects and track my progress in
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-**Code:**
-**Description:**
-**Skills:*
-**Technology:**
-**Results:**
 
 ### Analyzing Bike-Share Service
-**Code:**
+**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)
 **Description:**
-**Skills:*
+**Skills:**
 **Technology:**
 **Results:**
 
 ### Analyzing TV Data
 **Code:**
 **Description:**
-**Skills:*
+**Skills:**
 **Technology:**
 **Results:**
 
 ### Building a Simple Search Engine
 **Code:**
 **Description:**
-**Skills:*
+**Skills:**
 **Technology:**
 **Results:**
 
 ### Spidering and Modeling Email Data
 **Code:**
 **Description:**
-**Skills:*
+**Skills:**
 **Technology:**
 **Results:**
 
