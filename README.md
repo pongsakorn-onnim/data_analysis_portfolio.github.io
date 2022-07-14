@@ -17,6 +17,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 - [Study Projects](#study-projects)  
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)
+	+ [Data Analyst with Python](#data-analyst-with-python)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -51,21 +52,21 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** The visualizations of the word frequency and email participation by organizations over time.
 
 ## Study Projects
-### Python for Everybody Specialization [Coursera]
-**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data. [The course official page](https://www.coursera.org/specializations/python)\
+### Python for Everybody
+**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data by Coursera. [The course official page](https://www.coursera.org/specializations/python)\
 **Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, Xml \
 **Platforms and Tools:** Atom, DB Browser(SQLite) \
 **Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
 **Status:** Completed in Aug 2021.
 
-### Google Data Analytics [Coursera]
+### Google Data Analytics
 **Description:** \ 
 **Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. [The course official page](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE) \
 **Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
 **Hands-on Projects:** [Analyzing Bike-Share Service](#analyzing-bike-share-service) \
 **Status:** Completed in Jun 2022.
 
-### Data Analyst with Python [DataCamp]
+### Data Analyst with Python
 **Description:** \
 **Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
 **Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
