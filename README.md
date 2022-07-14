@@ -30,9 +30,9 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** Key findings and recommendations based on the analysis.
 
 ### Analyzing TV Data
-**Code:**\
-**Description:**\
-**Skills:**\
+**Code:** [analyzing_tv_data.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20TV%20Data/analyzing_tv_data.ipynb)\
+**Description:** This is the guided project from DataCamp. This project is about Super Bowl Data and is designed for students to use a combination of data manipulation and visualization to generate insights into game outcomes, viewership, and even halftime shows.\ 
+**Skills:** Data Manipulation, data visualization, importing & cleaning data\ 
 **Technology:**\
 **Results:**
 
