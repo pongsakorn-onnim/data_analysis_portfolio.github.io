@@ -25,9 +25,9 @@ Here is a repository to showcase skills, share projects and track my progress in
 ### Analyzing Bike-Share Service
 **Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
 **Description:** The bike-share company in Chicago(A fictional company) wants to design a new marketing strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.\
-**Skills:**\ Data collection, data cleansing, data analysis, data visualization
-**Technology:**\
-**Results:**
+**Skills:** Data cleansing, data analysis, data visualization\
+**Technology:** R, tidyverse, lubridate, ggplot2\
+**Results:** Key findings and recommendations based on the analysis.
 
 ### Analyzing TV Data
 **Code:**\
