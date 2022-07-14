@@ -23,11 +23,11 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 
 ### Analyzing Bike-Share Service
-**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)
-/**Description:** Description: The bike-share company in Chicago(A fictional company) wants to design a new marketing strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.
-**Skills:**
-**Technology:**
-**Results:**
+**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
+**Description:** Description: The bike-share company in Chicago(A fictional company) wants to design a new marketing\ strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.
+**Skills:**\
+**Technology:**\
+**Results:**\
 
 ### Analyzing TV Data
 **Code:**
