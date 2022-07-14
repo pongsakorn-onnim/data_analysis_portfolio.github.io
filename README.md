@@ -27,7 +27,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Description:** Description: The bike-share company in Chicago(A fictional company) wants to design a new marketing\ strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.
 **Skills:**\
 **Technology:**\
-**Results:**\
+**Results:**
 
 ### Analyzing TV Data
 **Code:**
