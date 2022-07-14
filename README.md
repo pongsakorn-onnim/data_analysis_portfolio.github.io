@@ -52,7 +52,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Study Projects
 ### Python for Everybody Specialization [Coursera]
-**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data. (The course official page)[https://www.coursera.org/specializations/python]\
+**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data. [The course official page](https://www.coursera.org/specializations/python)\
 **Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, Xml \
 **Platforms and Tools:** Atom, DB Browser(SQLite) \
 **Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
@@ -60,7 +60,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### Google Data Analytics [Coursera]
 **Description:** \ 
-**Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
+**Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. [The course official page](https://www.coursera.org/specializations/python) \
 **Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
 **Hands-on Projects:** [Analyzing Bike-Share Service](#analyzing-bike-share-service) \
 **Status:** Completed in Jun 2022.
