@@ -38,17 +38,17 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### Building a Simple Search Engine
 **Code:** [Building a Simple Search Engine](https://github.com/pongsakorn-onnim/portfolio/tree/main/Building%20a%20Simple%20Search%20Engine) \
-**Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. This project has sample code and lectures to help students to focus on learning the process of web crawling, index building and viusalzing.\
+**Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. (Note: This project has sample code and lectures to help student focus on the process of web crawling, index building and viusalzing data.)\
 **Skills:** Python, database, data visualization\
 **Technology:** Python, sqlite3, urllib.\
 **Results:** The visualization of ranking web pages.
 
 ### Spidering and Modeling Email Data
-**Code:**\
-**Description:**\
-**Skills:**\
-**Technology:**\
-**Results:**
+**Code:** [Spidering and Modeling Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%20and%20Modeling%20Email%20Data)\
+**Description:** This project is about retrieving, cleaning up, and modeling the email data from the Sakai open source project from 2004-2011. (Note: This project has sample code and lectures to help student focus on the process of spidering and modelling data)\
+**Skills:** Python, database, data visualization\
+**Technology:** Python, sqlite3, urllib.\
+**Results:** The visualizations of the word frequency and email participation by organizations over time.
 
 ## Certificates
 ## Contacts
