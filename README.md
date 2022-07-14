@@ -15,7 +15,7 @@ Here is a repository to showcase skills, share projects and track my progress in
   + [Building a Simple Search Engine](#building-a-simple-search-engine)
   + [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)
 - [Study Projects](#study-projects)  
-	+ [Google Data Analytics Professional Certificate](#google-data-analytics-professional-certificate)
+	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -49,6 +49,21 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Skills:** Python, database, data visualization\
 **Technology:** Python, sqlite3, urllib.\
 **Results:** The visualizations of the word frequency and email participation by organizations over time.
+
+## Study Projects
+### Python for Everybody Specialization
+**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data.\
+**Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, Xml \
+**Platforms and Tools:** Atom, DB Browser \
+**Repository:** \
+**Status:** 
+
+### Google Data Analytics 
+**Description:** \
+**Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
+**Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
+**Repository:** \
+**Status:** 
 
 ## Certificates
 ## Contacts
