@@ -39,31 +39,38 @@ Here is a repository to showcase skills, share projects and track my progress in
 ### Building a Simple Search Engine
 **Code:** [Building a Simple Search Engine](https://github.com/pongsakorn-onnim/portfolio/tree/main/Building%20a%20Simple%20Search%20Engine) \
 **Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. (Note: This project has sample code and lectures to help student focus on the process of web crawling, index building and viusalzing data.)\
-**Skills:** Python, database, data visualization\
+**Skills:** Python, database, data visualization.\
 **Technology:** Python, sqlite3, urllib.\
 **Results:** The visualization of ranking web pages.
 
 ### Spidering and Modeling Email Data
 **Code:** [Spidering and Modeling Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%20and%20Modeling%20Email%20Data)\
 **Description:** This project is about retrieving, cleaning up, and modeling the email data from the Sakai open source project from 2004-2011. (Note: This project has sample code and lectures to help student focus on the process of spidering and modelling data)\
-**Skills:** Python, database, data visualization\
+**Skills:** Python, database, data visualization.\
 **Technology:** Python, sqlite3, urllib.\
 **Results:** The visualizations of the word frequency and email participation by organizations over time.
 
 ## Study Projects
-### Python for Everybody Specialization
-**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data.\
+### Python for Everybody Specialization [Coursera]
+**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data. (The course official page)[https://www.coursera.org/specializations/python]\
 **Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, Xml \
-**Platforms and Tools:** Atom, DB Browser \
-**Repository:** \
-**Status:** 
+**Platforms and Tools:** Atom, DB Browser(SQLite) \
+**Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
+**Status:** Completed in Aug 2021.
 
-### Google Data Analytics 
+### Google Data Analytics [Coursera]
+**Description:** \ 
+**Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
+**Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
+**Hands-on Projects:** [Analyzing Bike-Share Service](#analyzing-bike-share-service) \
+**Status:** Completed in Jun 2022.
+
+### Data Analyst with Python [DataCamp]
 **Description:** \
 **Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
 **Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
-**Repository:** \
-**Status:** 
+**Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
+**Status:** Currently studying.
 
 ## Certificates
 ## Contacts
