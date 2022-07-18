@@ -68,8 +68,8 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### Data Analyst with Python
 **Description:** \
-**Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
-**Platforms and Tools:** Spreadsheets, SQL, Tableau and R Programming. \
+**Skills gained from the course:**  \
+**Platforms and Tools:** \
 **Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
 **Status:** Currently studying.
 
