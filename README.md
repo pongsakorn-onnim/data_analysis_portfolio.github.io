@@ -13,7 +13,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
   + [Analyzing TV Data](#analyzing-tv-data)
   + [Building a Simple Search Engine](#building-a-simple-search-engine)
-  + [Spidering Modelling and Visualizing Email Data](#spidering-modelling-and-visualizing-email-data)
+  + [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
 - [Study Projects](#study-projects)  
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)
@@ -35,7 +35,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Description:** This is the guided project from DataCamp looking to analyze the Super Bowl game, television, and halftime show data. It is designed for students to use a combination of data manipulation and visualization to generate insights into game outcomes, viewership, and halftime shows.\
 **Skills:** Data Manipulation, data visualization, importing & cleaning data.\
 **Technology:** Python, pandas, matplotlib.\
-**Results:** The distributions of combined points, point differences, and halftime show performances, and the relationship between ad cost and viewership, The relationship between point differences and viewership.
+**Results:** The distributions of combined points, point differences, and halftime show performances, the relationship between ad cost and viewership, and the relationship between point differences and viewership.
 
 ### Building a Simple Search Engine
 **Code:** [Building a Simple Search Engine](https://github.com/pongsakorn-onnim/portfolio/tree/main/Building%20a%20Simple%20Search%20Engine) \
