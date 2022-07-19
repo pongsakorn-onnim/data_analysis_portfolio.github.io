@@ -13,7 +13,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
   + [Analyzing TV Data](#analyzing-tv-data)
   + [Building a Simple Search Engine](#building-a-simple-search-engine)
-  + [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)
+  + [Spidering, Modelling, and Visualizing Email Data](#spidering,-modelling,-and-visualizing-email-data)
 - [Study Projects](#study-projects)  
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)
@@ -45,7 +45,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** The visualization of ranking web pages.
 
 ### Spidering, Modelling and Visualizaing Email Data
-**Code:** [Spidering, Modelling and Visualizaing Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%2C%20Modelling%2C%20and%20Visualzing%20Email%20Data)\
+**Code:** [Spidering, Modelling and Visualizing Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%2C%20Modelling%2C%20and%20Visualizing%20Email%20Data)\
 **Description:** This project is about retrieving, cleaning up, and modeling the email data from the Sakai open source project from 2004-2011. (Note: This project has sample code and lectures to help student focus on the process of spidering and modelling data)\
 **Skills:** Python, database, data visualization.\
 **Technology:** Python, sqlite3, urllib.\
