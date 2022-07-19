@@ -53,7 +53,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Study Projects
 ### Python for Everybody
-**Description:** Learn to program and analyze data with python. Develop programs to gather, clean, analyze, and visualize data by Coursera. [The course official page](https://www.coursera.org/specializations/python)\
+**Description:** This Coursera Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization. [The course official page](https://www.coursera.org/specializations/python)\
 **Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, Xml \
 **Platforms and Tools:** Atom, DB Browser(SQLite) \
 **Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
