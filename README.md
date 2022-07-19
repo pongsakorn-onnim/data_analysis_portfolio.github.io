@@ -45,7 +45,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** The visualization of ranking web pages.
 
 ### Spidering Modeling and Visualizing Email Data
-**Code:** [Spidering Modeling and Visualizing Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%2C%20Modelling%2C%20and%20Visualizing%20Email%20Data)\
+**Code:** [Spidering Modeling and Visualizing Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%2C%20Modeling%2C%20and%20Visualizing%20Email%20Data)\
 **Description:** This project is about retrieving, cleaning, modeling, visualizing the email data from the Sakai open source project in 2004-2011. (Note: This project has sample codes and lectures to help students focus on the process of spidering, modeling, and visualizing data)\
 **Skills:** Python, database, data visualization.\
 **Technology:** Python, sqlite3, urllib.\
