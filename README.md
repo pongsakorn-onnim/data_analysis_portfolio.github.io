@@ -75,9 +75,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Certificates
 ## Contacts
-- LinkedIn: []()
-- Telegram: []()
-- Twitter: []()
+- [LinkedIn](https://www.linkedin.com/in/pongsakorn-onnim-160b52202/)
 - E-mail: pongsakorn.onnim@gmail.com
 
 
