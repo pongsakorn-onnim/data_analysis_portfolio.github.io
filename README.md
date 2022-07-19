@@ -78,7 +78,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 - [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing) (Aug 2021)
 
 ## Contacts
-- [LinkedIn](https://www.linkedin.com/in/pongsakorn-onnim-160b52202/)
+- LinkedIn: [Pongsakorn Onnim](https://www.linkedin.com/in/pongsakorn-onnim-160b52202/)
 - E-mail: pongsakorn.onnim@gmail.com
 
 
