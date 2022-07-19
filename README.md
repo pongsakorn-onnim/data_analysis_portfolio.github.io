@@ -74,8 +74,8 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Status:** Currently studying.
 
 ## Certificates
-- [Google Data Analytics](https://drive.google.com/file/d/1Ke1mWZAg6jmlPf1kyT5zXZRVe-p0TQyl/view?usp=sharing)(June 2022)
-- [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing)(Aug 2021)
+- [Google Data Analytics](https://drive.google.com/file/d/1Ke1mWZAg6jmlPf1kyT5zXZRVe-p0TQyl/view?usp=sharing) (June 2022)
+- [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing) (Aug 2021)
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/pongsakorn-onnim-160b52202/)
