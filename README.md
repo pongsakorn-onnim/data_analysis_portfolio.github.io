@@ -13,7 +13,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
   + [Analyzing TV Data](#analyzing-tv-data)
   + [Building a Simple Search Engine](#building-a-simple-search-engine)
-  + [Spidering Modelling and Visualizing Email Data](#spidering-modelling-and-visualizing-email-data)
+  + [Spidering, Modelling and Visualizing Email Data](#spidering,-modelling-and-visualizing-email-data)
 - [Study Projects](#study-projects)  
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)
