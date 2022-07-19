@@ -67,7 +67,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Status:** Completed in Jun 2022.
 
 ### Data Analyst with Python
-**Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libaries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets, including data from Walmart sales and data about global food consumption. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
+**Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libaries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to the statistics skills and perform hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
 **Skills gained from the course:**  \
 **Platforms and Tools:** \
 **Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
