@@ -73,7 +73,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
 **Status:** Currently studying.
 
-## Certificate
+## Certificates
 ## Contacts
 - LinkedIn: []()
 - Telegram: []()
