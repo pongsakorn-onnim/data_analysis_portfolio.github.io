@@ -16,9 +16,9 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
 	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)
 - [Study Projects](#study-projects)  
-	+ [Python for Everybody](#python-for-everybody)	
-	+ [Google Data Analytics](#google-data-analytics)
 	+ [Data Analyst with Python](#data-analyst-with-python)
+	+ [Google Data Analytics](#google-data-analytics)
+	+ [Python for Everybody](#python-for-everybody)	
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -60,12 +60,13 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.
 
 ## Study Projects
-### Python for Everybody
-**Description:** This [Coursera](https://www.coursera.org/) Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization. [The course official page.](https://www.coursera.org/specializations/python)\
-**Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, and Xml \
-**Platforms and Tools:** Atom, DB Browser(SQLite) \
-**Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
-**Status:** Completed in Aug 2021.
+
+### Data Analyst with Python
+**Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libraries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to statistics skills and performing hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
+**Skills gained from the course:** Manipulating data, visualizing data, statistics, hypothesis testing. \
+**Platforms and Tools:** Python. \
+**Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
+**Status:** In Progress.
 
 ### Google Data Analytics
 **Description:** This course from [Coursera](https://www.coursera.org/) is a path for students to gain in-demand skills that prepare them for an entry-level data analyst job. The students will learn the processes used by data analyst, analytical skills and tools, and understand how to clean, organize and visualize data. [The course official page.](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE) \
@@ -74,12 +75,12 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Hands-on Projects:** [Analyzing Bike-Share Service](#analyzing-bike-share-service) \
 **Status:** Completed in Jun 2022.
 
-### Data Analyst with Python
-**Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libraries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to statistics skills and performing hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
-**Skills gained from the course:** Manipulating data, visualizing data, statistics, hypothesis testing. \
-**Platforms and Tools:** Python. \
-**Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
-**Status:** Currently studying.
+### Python for Everybody
+**Description:** This [Coursera](https://www.coursera.org/) Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization. [The course official page.](https://www.coursera.org/specializations/python)\
+**Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, and Xml \
+**Platforms and Tools:** Atom, DB Browser(SQLite) \
+**Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
+**Status:** Completed in Aug 2021.
 
 ## Certificates
 - [Google Data Analytics](https://drive.google.com/file/d/1Ke1mWZAg6jmlPf1kyT5zXZRVe-p0TQyl/view?usp=sharing) (June 2022)
