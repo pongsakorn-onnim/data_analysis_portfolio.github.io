@@ -11,9 +11,10 @@ Here is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
-  + [Analyzing TV Data](#analyzing-tv-data)
-  + [Building a Simple Search Engine](#building-a-simple-search-engine)
-  + [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
+	+ [Analyzing TV Data](#analyzing-tv-data)
+	+ [Building a Simple Search Engine](#building-a-simple-search-engine)
+	+ [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
+	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)
 - [Study Projects](#study-projects)  
 	+ [Python for Everybody](#python-for-everybody)	
 	+ [Google Data Analytics](#google-data-analytics)
@@ -50,6 +51,13 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Skills:** Python, database, data visualization.\
 **Technology:** Python, sqlite3, urllib.\
 **Results:** The visualizations of the words frequency distribution and email participation by organizations over time.
+
+### Creating Visualizations and Dashboards in Tableau
+**My Tableau Profile:** [Pongsakorn Onnim](https://public.tableau.com/app/profile/pongsakorn.onnim)\
+**Description:** This mini hands-on project is a part of [the Google Data Analytics course](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE). The students will have the opportunity to practice data visualization skills in Tableau and use multiple data sources to create a visualization and dashboard.\
+**Skills:** Data visualization.\
+**Platforms and Tools:** Tableau.\
+**Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.
 
 ## Study Projects
 ### Python for Everybody
