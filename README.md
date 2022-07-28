@@ -35,7 +35,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Code:** [analyzing_tv_data.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20TV%20Data/analyzing_tv_data.ipynb)\
 **Description:** This is the guided project from DataCamp looking to analyze the Super Bowl game, television, and halftime show data. It is designed for students to use a combination of data manipulation and visualization to generate insights into game outcomes, viewership, and halftime shows.\
 **Skills:** Data Manipulation, data visualization, importing & cleaning data.\
-**Technology:** Python, pandas, matplotlib.\
+**Technology:** Python, pandas, Matplotlib, Seabron.\
 **Results:** The distributions of combined points, point differences, and halftime show performances, the relationship between ad cost and viewership, and the relationship between point differences and viewership.
 
 ### Building a Simple Search Engine
