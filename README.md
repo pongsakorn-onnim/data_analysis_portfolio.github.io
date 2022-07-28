@@ -28,14 +28,14 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
 **Description:** The bike-share company in Chicago(A fictional company) wants to design a new marketing strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.\
 **Skills:** Data cleansing, data analysis, data visualization.\
-**Technology:** R, tidyverse, lubridate, ggplot2.\
+**Technologies used:** R, tidyverse, lubridate, ggplot2.\
 **Results:** Key findings and recommendations based on the analysis.
 
 ### Analyzing TV Data
 **Code:** [analyzing_tv_data.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20TV%20Data/analyzing_tv_data.ipynb)\
 **Description:** This is the guided project from DataCamp looking to analyze the Super Bowl game, television, and halftime show data. It is designed for students to use a combination of data manipulation and visualization to generate insights into game outcomes, viewership, and halftime shows.\
 **Skills:** Data Manipulation, data visualization, importing & cleaning data.\
-**Technology:** Python, pandas, Matplotlib, Seabron.\
+**Technologies used:** Python, pandas, Matplotlib, Seaborn.\
 **Results:** The distributions of combined points, point differences, and halftime show performances, the relationship between ad cost and viewership, and the relationship between point differences and viewership.
 
 ### Building a Simple Search Engine
@@ -43,20 +43,20 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. (Note: This project has sample codes and lectures to help students focus on the process of web crawling, index building and viusalzing data.)\
 **Skills:** Python, database, data visualization.\
 **Technology:** Python, SQL, sqlite3, urllib.\
-**Results:** The visualization of ranking web pages.
+**Result:** The visualization of ranking web pages.
 
 ### Spidering Modeling and Visualizing Email Data
 **Code:** [Spidering Modeling and Visualizing Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%2C%20Modeling%2C%20and%20Visualizing%20Email%20Data)\
 **Description:** This project is about retrieving, cleaning, modeling, visualizing the email data from the Sakai open source project in 2004-2011. (Note: This project has sample codes and lectures to help students focus on the process of spidering, modeling, and visualizing data)\
 **Skills:** Python, database, data visualization.\
-**Technology:** Python, SQL, sqlite3, urllib.\
+**Technologies used:** Python, SQL, sqlite3, urllib.\
 **Results:** The visualizations of the words frequency distribution and email participation by organizations over time.
 
 ### Creating Visualizations and Dashboards in Tableau
 **My Tableau Profile:** [Pongsakorn Onnim](https://public.tableau.com/app/profile/pongsakorn.onnim)\
 **Description:** This mini hands-on project is a part of [the Google Data Analytics course](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE). The students will have the opportunity to practice data visualization skills in Tableau and use multiple data sources to create visualizations and dashboards.\
-**Skills:** Data visualization.\
-**Platforms and Tools:** Tableau.\
+**Skill:** Data visualization.\
+**Tool:** Tableau.\
 **Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.
 
 ## Study Projects
@@ -64,7 +64,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ### Data Analyst with Python
 **Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libraries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to statistics skills and performing hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
 **Skills gained from the course:** Manipulating data, visualizing data, statistics. \
-**Platforms and Tools:** Python. \
+**Tool:** Python. \
 **Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
 **Status:** In Progress.
 
