@@ -42,7 +42,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Code:** [Building a Simple Search Engine](https://github.com/pongsakorn-onnim/portfolio/tree/main/Building%20a%20Simple%20Search%20Engine) \
 **Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. (Note: This project has sample codes and lectures to help students focus on the process of web crawling, index building and viusalzing data.)\
 **Skills:** Python, database, data visualization.\
-**Technology:** Python, SQL, sqlite3, urllib.\
+**Technology:** Python, SQL, sqlite3, urllib, BeautifulSoup.\
 **Result:** The visualization of ranking web pages.
 
 ### Spidering Modeling and Visualizing Email Data
