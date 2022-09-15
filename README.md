@@ -9,12 +9,14 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Python Projects](#portfolio-projects)	
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
 	+ [Analyzing TV Data](#analyzing-tv-data)
 	+ [Building a Simple Search Engine](#building-a-simple-search-engine)
 	+ [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
 	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)
+- [SQL Projects](#portfolio-projects)
+	+ [When Was the Golden Age of Video Games](#when-was-the-golden-age-of-video-games)
 - [Online Courses](#online-courses)  
 	+ [Data Analyst with Python](#data-analyst-with-python)
 	+ [Google Data Analytics](#google-data-analytics)
