@@ -59,7 +59,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Tool:** Tableau.\
 **Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.
 
-## Study Projects
+## Online Courses
 
 ### Data Analyst with Python
 **Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libraries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to statistics skills and performing hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
