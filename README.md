@@ -24,7 +24,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Portfolio Projects
+## Python Projects
 
 ### Analyzing Bike-Share Service
 **Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
@@ -60,6 +60,15 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Skill:** Data visualization.\
 **Tool:** Tableau.\
 **Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.
+
+## SQL Projects
+
+### When Was the Golden Age of Video Games
+**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
+**Description:** 888\
+**Technologies used:** 888\
+**Results:** 888
+
 
 ## Online Courses
 
