@@ -64,7 +64,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## SQL Projects
 
 ### When Was the Golden Age of Video Games
-**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
+**Code:** [[When Was the Golden Age of Video Games]](https://github.com/pongsakorn-onnim/portfolio/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)\
 **Description:** 888\
 **Technologies used:** 888\
 **Results:** 888
