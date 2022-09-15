@@ -15,7 +15,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Building a Simple Search Engine](#building-a-simple-search-engine)
 	+ [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
 	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)
-- [Study Projects](#study-projects)  
+- [Online Courses](#online-courses)  
 	+ [Data Analyst with Python](#data-analyst-with-python)
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)	
