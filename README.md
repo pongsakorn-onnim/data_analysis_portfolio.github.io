@@ -64,7 +64,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## SQL Projects
 
 ### When Was the Golden Age of Video Games
-**Code:** [[When Was the Golden Age of Video Games]](https://github.com/pongsakorn-onnim/portfolio/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)\
+**Code:** [When Was the Golden Age of Video Games](https://github.com/pongsakorn-onnim/portfolio/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)\
 **Description:** I analyzed video game critic scores, user scores, and sales data for the top 400 video games released since 1977. The goal is to look for the golden age of video games by identifying release years that users and critics liked best.\
 **Technologies used:** SQL\
 **Results:** Top three best video game years.  
