@@ -5,6 +5,11 @@ This portfolio showcases my skills in Power BI through exercises completed from 
 ## Exercises Included
 
 [Exercise 1: Data Cleaning and Transformation](Link to Exercise 1 folder)<br>
+Description: In this exercise, I loaded multiple datasets in the Dataview, built a data model to understand the relationships between tables in the Model view, and created bar graph and interactive map visualization in the Report view. Also, I practiced using Power Query Editor to prep data for analysis.<br>
+Screenshots:<br>
+[Screenshot 1: Customer reviews dataset before cleaning](Link to Screenshot 1)<br>
+[Screenshot 2: Customer reviews dataset after cleaning](Link to Screenshot 2)<br>
+
 [Exercise 2: Exploratory Data Analysis](Link to Exercise 2 folder)<br>
 [Exercise 3: Basic Visualization Techniques](Link to Exercise 3 folder)<br>
 [Exercise 4: Advanced Visualization Techniques](Link to Exercise 4 folder)<br>
