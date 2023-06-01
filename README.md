@@ -9,22 +9,39 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 - [About](#about)
-- [Python Projects](#portfolio-projects)	
+- [Excel Project](#excel-projects)
+- [SQL projects](#portfolio-projects)
+	+ [When Was the Golden Age of Video Games](#when-was-the-golden-age-of-video-games)
+- [Power BI project](#power-bi-project)
+	+ [HR Analytics Dashboard]
+- [Python projects](#portfolio-projects)	
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
 	+ [Analyzing TV Data](#analyzing-tv-data)
 	+ [Building a Simple Search Engine](#building-a-simple-search-engine)
 	+ [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
-	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)
-- [SQL Projects](#portfolio-projects)
-	+ [When Was the Golden Age of Video Games](#when-was-the-golden-age-of-video-games)
-- [Online Courses](#online-courses)  
+	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)		
+- [Online courses](#online-courses)  
 	+ [Data Analyst with Python](#data-analyst-with-python)
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)	
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Python Projects
+## Excel projects
+
+## SQL Projects
+
+### When Was the Golden Age of Video Games
+**Code:** [When Was the Golden Age of Video Games](https://github.com/pongsakorn-onnim/portfolio/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)\
+**Description:** I analyzed video game critic scores, user scores, and sales data for the top 400 video games released since 1977. The goal is to look for the golden age of video games by identifying release years that users and critics liked best.\
+**Technologies used:** SQL\
+**Results:** The top three best video game years and their total games sold data in each year. 
+
+## Power BI project
+
+### HR Analytics Dashboard
+
+## Python projects
 
 ### Analyzing Bike-Share Service
 **Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
@@ -59,16 +76,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Description:** This mini hands-on project is a part of [the Google Data Analytics course](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE). The students will have the opportunity to practice data visualization skills in Tableau and use multiple data sources to create visualizations and dashboards.\
 **Skill:** Data visualization.\
 **Tool:** Tableau.\
-**Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.
-
-## SQL Projects
-
-### When Was the Golden Age of Video Games
-**Code:** [When Was the Golden Age of Video Games](https://github.com/pongsakorn-onnim/portfolio/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)\
-**Description:** I analyzed video game critic scores, user scores, and sales data for the top 400 video games released since 1977. The goal is to look for the golden age of video games by identifying release years that users and critics liked best.\
-**Technologies used:** SQL\
-**Results:** The top three best video game years and their total games sold data in each year.    
-
+**Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.   
 
 ## Online Courses
 
