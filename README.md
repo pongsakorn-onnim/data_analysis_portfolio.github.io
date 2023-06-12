@@ -45,7 +45,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### Analyzing American Baby Name Trends
 **Description:** \
-**Code:**
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)
 ### Analyze International Debt Statistics
 **Description:** \
 **Code:**
