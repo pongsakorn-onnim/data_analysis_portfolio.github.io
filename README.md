@@ -45,10 +45,10 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### Analyzing American Baby Name Trends
 **Description:** \
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends)
 ### Analyze International Debt Statistics
 **Description:** \
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends)
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyze%20International%20Debt%20Statistics)
 ### What and Where are the World's Oldest Businesses
 **Description:** \
 **Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
