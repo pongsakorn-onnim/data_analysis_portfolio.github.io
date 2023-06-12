@@ -57,6 +57,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### HR Analytics Dashboard
 **Description:**
+**Repository:** [link](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/tree/main/Course%209%20Case%20Study%20HR%20Analytics%20in%20Power%20BI)
 
 ## Python projects
 
