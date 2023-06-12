@@ -33,7 +33,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Description:** This project involves cleaning, analyzing, and creating an interactive dashboard of [Washington Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data). The objective is to determine the number of electric vehicles (EVs) categorized by city, maker, type, and their Clean Alternative Fuel Vehicles(CAFV) Eligibility. The project aims to gain insights into the variations in EV counts across different cities, the percentage distribution of EVs by the battery type, and the percentage distribution of EVs based on their Clean Alternative Fuel Vehicles(CAFV) Eligibility.\
 **File:** [electric_vehicle_population_data_dashboard.xlsx](https://github.com/pongsakorn-onnim/Excel_projects/blob/main/electric_vehicle_population_data_dashboard.xlsx)
 
-## SQL Projects
+## SQL projects
 
 ### When Was the Golden Age of Video Games
 **Code:** [When Was the Golden Age of Video Games](https://github.com/pongsakorn-onnim/portfolio/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)\
