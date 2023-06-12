@@ -48,10 +48,10 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)
 ### Analyze International Debt Statistics
 **Description:** \
-**Code:**
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends)
 ### What and Where are the World's Oldest Businesses
 **Description:** \
-**Code:**
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
 
 ## Power BI project
 
