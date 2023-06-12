@@ -10,7 +10,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#about)
 - [Excel project](#excel-project)
-- [SQL projects](#portfolio-projects)
+- [SQL projects](#sql-projects)
 	+ [When Was the Golden Age of Video Games](#when-was-the-golden-age-of-video-games)
 - [Power BI project](#power-bi-project)
 	+ [HR Analytics Dashboard]
