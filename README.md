@@ -9,7 +9,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 - [About](#about)
-- [Excel Project](#excel-projects)
+- [Excel project](#excel-project)
 - [SQL projects](#portfolio-projects)
 	+ [When Was the Golden Age of Video Games](#when-was-the-golden-age-of-video-games)
 - [Power BI project](#power-bi-project)
@@ -27,7 +27,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Excel projects
+## Excel project
 
 ### Washington Registered EV Population Dashboard
 **Description:** This project involves cleaning, analyzing, and creating an interactive dashboard of [Washington Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data). The objective is to determine the number of electric vehicles (EVs) categorized by city, maker, type, and their Clean Alternative Fuel Vehicles(CAFV) Eligibility. The project aims to gain insights into the variations in EV counts across different cities, the percentage distribution of EVs by the battery type, and the percentage distribution of EVs based on their Clean Alternative Fuel Vehicles(CAFV) Eligibility.\
