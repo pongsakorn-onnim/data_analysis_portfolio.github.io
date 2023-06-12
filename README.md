@@ -6,12 +6,15 @@ Hi, My name is Pongsakorn Onnim. I hold a Bachelor of Engineering (Environmental
 
 Here is a repository to showcase skills, share projects and track my progress in Data analytics topics.
 
-
 ## Table of contents
 - [About](#about)
 - [Excel project](#excel-project)
 - [SQL projects](#sql-projects)
 	+ [When Was the Golden Age of Video Games](#when-was-the-golden-age-of-video-games)
+	+ [Analyzing American Baby Name Trends](#analyzing-american-baby-name-trends)
+	+ [Analyze International Debt Statistics](#analyze-international-debt-statistics)
+	+ [What and Where are the World's Oldest Businesses](#what-and-where-are-the-worlds-oldest-businesses)
+
 - [Power BI project](#power-bi-project)
 	+ [HR Analytics Dashboard]
 - [Python projects](#portfolio-projects)	
@@ -40,6 +43,10 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Description:** I analyzed video game critic scores, user scores, and sales data for the top 400 video games released since 1977. The goal is to look for the golden age of video games by identifying release years that users and critics liked best.\
 **Technologies used:** SQL\
 **Results:** The top three best video game years and their total games sold data in each year. 
+
+### Analyzing American Baby Name Trends
+### Analyze International Debt Statistics
+### What and Where are the World's Oldest Businesses
 
 ## Power BI project
 
