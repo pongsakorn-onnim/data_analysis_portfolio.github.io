@@ -14,7 +14,6 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Analyzing American Baby Name Trends](#analyzing-american-baby-name-trends)
 	+ [Analyze International Debt Statistics](#analyze-international-debt-statistics)
 	+ [What and Where are the World's Oldest Businesses](#what-and-where-are-the-worlds-oldest-businesses)
-
 - [Power BI project](#power-bi-project)
 	+ [HR Analytics Dashboard]
 - [Python projects](#portfolio-projects)	
