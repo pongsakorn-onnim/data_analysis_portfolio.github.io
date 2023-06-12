@@ -32,8 +32,8 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## Excel project
 
 ### Washington Registered EV Population Dashboard
-**Description:** This project involves cleaning, analyzing, and creating an interactive dashboard of [Washington Electric Vehicle Population Data]([https://catalog.data.gov/dataset/electric-vehicle-population-data](https://github.com/pongsakorn-onnim/Excel_projects/tree/main/electric_vehicle_population_data_analysis)). The objective is to determine the number of electric vehicles (EVs) categorized by city, maker, type, and their Clean Alternative Fuel Vehicles(CAFV) Eligibility. The project aims to gain insights into the variations in EV counts across different cities, the percentage distribution of EVs by the battery type, and the percentage distribution of EVs based on their Clean Alternative Fuel Vehicles(CAFV) Eligibility.\
-**File:** [electric_vehicle_population_data_dashboard.xlsx]([https://github.com/pongsakorn-onnim/Excel_projects/blob/main/electric_vehicle_population_data_dashboard.xlsx](https://github.com/pongsakorn-onnim/Excel_projects/tree/main/electric_vehicle_population_data_analysis))
+**Description:** This project involves cleaning, analyzing, and creating an interactive dashboard of [Washington Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data). The objective is to determine the number of electric vehicles (EVs) categorized by city, maker, type, and their Clean Alternative Fuel Vehicles(CAFV) Eligibility. The project aims to gain insights into the variations in EV counts across different cities, the percentage distribution of EVs by the battery type, and the percentage distribution of EVs based on their Clean Alternative Fuel Vehicles(CAFV) Eligibility.\
+**File:** [electric_vehicle_population_data_dashboard.xlsx](https://github.com/pongsakorn-onnim/Excel_projects/tree/main/electric_vehicle_population_data_analysis)
 
 ## SQL projects
 
