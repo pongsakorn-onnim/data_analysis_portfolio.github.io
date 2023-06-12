@@ -15,8 +15,8 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Analyze International Debt Statistics](#analyze-international-debt-statistics)
 	+ [What and Where are the World's Oldest Businesses](#what-and-where-are-the-worlds-oldest-businesses)
 - [Power BI project](#power-bi-project)
-	+ [HR Analytics Dashboard]
-- [Python projects](#portfolio-projects)	
+	+ [HR Analytics Dashboard](#hr-analytics-dashboard)
+- [Python projects](#python-projects)	
 	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
 	+ [Analyzing TV Data](#analyzing-tv-data)
 	+ [Building a Simple Search Engine](#building-a-simple-search-engine)
@@ -44,12 +44,19 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** The top three best video game years and their total games sold data in each year. 
 
 ### Analyzing American Baby Name Trends
+**Description:** \
+**Code:**
 ### Analyze International Debt Statistics
+**Description:** \
+**Code:**
 ### What and Where are the World's Oldest Businesses
+**Description:** \
+**Code:**
 
 ## Power BI project
 
 ### HR Analytics Dashboard
+**Description:**
 
 ## Python projects
 
