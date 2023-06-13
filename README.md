@@ -44,15 +44,15 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** The top three best video game years and their total games sold data in each year. 
 
 ### Analyzing American Baby Name Trends
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends) \
+**Code:** [american_baby_name_trends_analysis.ipynb](https://github.com/pongsakorn-onnim/SQL_projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/american_baby_name_trends_analysis.ipynb) \
 **Description:** This project focuses on exploring the American baby name trends data over 101 years published by The U.S. Social Security Administration. \
-**Skills:** Data manipulation, data joining, subquery, Common Table Expression(CTE)\
+**Skills:** Data manipulation, data joining, subquery and Common Table Expression(CTE)\
 **Results:** Top-ranked female names since 1920, traditionally female names ending in the letter 'a' since 2015, top male names over the years, etc. \
 
 ### Analyze International Debt Statistics
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyze%20International%20Debt%20Statistics)
+**Code:** [international_debt statistics_analysis.ipynb](https://github.com/pongsakorn-onnim/SQL_projects/blob/main/Analyze%20International%20Debt%20Statistics/international_debt%20statistics_analysis.ipynb)
 **Description:** This project focuses on analyzing international debt data collected by The World Bank. The dataset includes comprehensive information about the amount of debt (in USD) owed by developing countries across various categories, encompassing national and regional debt statistics. The data spans from 1970 to 2015, providing insights into the debt trends and patterns of countries worldwide. \
-**Skills:** Data manipulation, subquery.
+**Skills:** Data manipulation and subquery.
 **Results:** The total amount of debt that is owed by the countries, the country that owns the maximum amount of debt, the average amount of debt owed by countries across different debt indicators, etc.
 
 
