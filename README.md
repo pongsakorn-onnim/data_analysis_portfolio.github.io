@@ -57,7 +57,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 
 ### What and Where are the World's Oldest Businesses
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses) \
+**Code:** [worlds_oldest_businesses_analysis.ipynb](https://github.com/pongsakorn-onnim/SQL_projects/blob/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/worlds_oldest_businesses_analysis.ipynb) \
 **Description:** This project focuses on exploring the data from BusinessFinancing.co.uk on the world's oldest businesses containing data about the oldest company that is still in business in(almost) every country. \
 **Skills:** Data manipulation, data joining.\
 **Results:** The businesses that were founded before 1000, the oldest business by continent, the most common categories for the oldest businesses on each continent, etc.
