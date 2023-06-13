@@ -52,7 +52,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ### Analyze International Debt Statistics
 **Code:** [international_debt statistics_analysis.ipynb](https://github.com/pongsakorn-onnim/SQL_projects/blob/main/Analyze%20International%20Debt%20Statistics/international_debt%20statistics_analysis.ipynb) \
 **Description:** This project focuses on analyzing international debt data collected by The World Bank. The dataset includes comprehensive information about the amount of debt (in USD) owed by developing countries across various categories, encompassing national and regional debt statistics. The data spans from 1970 to 2015, providing insights into the debt trends and patterns of countries worldwide. \
-**Skills:** Data manipulation and subquery.
+**Skills:** Data manipulation and subquery. \
 **Results:** The total amount of debt that is owed by the countries, the country that owns the maximum amount of debt, the average amount of debt owed by countries across different debt indicators, etc.
 
 
