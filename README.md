@@ -44,11 +44,18 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Results:** The top three best video game years and their total games sold data in each year. 
 
 ### Analyzing American Baby Name Trends
-**Description:** \
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends)
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends) \
+**Description:** This project focuses on exploring the American baby name trends data over 101 years published by The U.S. Social Security Administration. \
+**Skills:** Data manipulation, data joining, subquery, Common Table Expression(CTE)\
+**Results:** Top-ranked female names since 1920, traditionally female names ending in the letter 'a' since 2015, top male names over the years, etc. \
+
 ### Analyze International Debt Statistics
-**Description:** \
 **Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/Analyze%20International%20Debt%20Statistics)
+**Description:** This project focuses on analyzing international debt data collected by The World Bank. The dataset includes comprehensive information about the amount of debt (in USD) owed by developing countries across various categories, encompassing national and regional debt statistics. The data spans from 1970 to 2015, providing insights into the debt trends and patterns of countries worldwide. \
+**Skills:** Data manipulation, subquery.
+**Results:** The total amount of debt that is owed by the countries, the country that owns the maximum amount of debt, the average amount of debt owed by countries across different debt indicators, etc.
+
+
 ### What and Where are the World's Oldest Businesses
 **Description:** \
 **Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
