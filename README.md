@@ -40,7 +40,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ### When Was the Golden Age of Video Games
 **Code:** [When Was the Golden Age of Video Games](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)\
 **Description:** This project aims to analyze video game critic and user scores, along with sales data, for the top 400 video games released since 1977. The goal is to identify the top three best video game years and the total game sold in these years by examining the release years that received the highest ratings from both critics and users. \
-**Skills:** Data manipulation, data joining, , subquery and set theory.\
+**Skills:** Data manipulation, data joining, , subquery, and set theory.\
 **Results:** The top three best video game years and their total games sold data in each year. 
 
 ### Analyzing American Baby Name Trends
@@ -57,8 +57,10 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 
 ### What and Where are the World's Oldest Businesses
-**Description:** \
-**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
+**Code:** [link](https://github.com/pongsakorn-onnim/SQL_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses) \
+**Description:** This project focuses on exploring the data from BusinessFinancing.co.uk on the world's oldest businesses containing data about the oldest company that is still in business in(almost) every country. \
+**Skills:** Data manipulation, data joining.\
+**Results:** The businesses that were founded before 1000, the oldest business by continent, the most common categories for the oldest businesses on each continent, etc.
 
 ## Power BI project
 
