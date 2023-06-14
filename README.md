@@ -131,15 +131,15 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## Online Courses
 
 ### Data Analyst in Power BI, DataCamp
-**Completed on:** DEC 07, 2022
+**Completed on:** Dec 07, 2022
 
 ### Data Analyst with Python, DataCamp
 **Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libraries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to statistics skills and performing hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
 **Skills gained from the course:** Manipulating data, visualizing data, and statistics. 
-**Completed on:** APR 14, 2023 \
+**Completed on:** Apr 14, 2023 \
 
 ### Data Analyst in SQL, DataCamp
-**Completed on:** SEP 14, 2022
+**Completed on:** Sep 14, 2022
 
 ### Google Data Analytics
 **Description:** This course from [Coursera](https://www.coursera.org/) is a path for students to gain in-demand skills that prepare them for an entry-level data analyst job. The students will learn the processes used by data analysts, analytical skills and tools, and understand how to clean, organize and visualize data. [The course official page.](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE) \
@@ -156,7 +156,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Status:** Completed in Aug 2021.
 
 ## Certifications
-- [Associate Data Analyst Certification, DataCamp](https://drive.google.com/file/d/1RSFn9M5iMueYjytszebnWacNy8xmwMjE/view?usp=sharing)
+- [Associate Data Analyst Certification, DataCamp] (https://drive.google.com/file/d/1RSFn9M5iMueYjytszebnWacNy8xmwMjE/view?usp=sharing) (Apr 17, 2023)
 - [Google Data Analytics](https://drive.google.com/file/d/1Ke1mWZAg6jmlPf1kyT5zXZRVe-p0TQyl/view?usp=sharing) (June 2022)
 - [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing) (Aug 2021)
 
