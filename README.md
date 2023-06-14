@@ -33,7 +33,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Data Analyst in SQL, DataCamp](#data-analyst-in-sql-datacamp)
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)	
-- [Certificates](#certificates)
+- [Certifications](#certifications)
 - [Contacts](#contacts)
 
 ## Excel project
@@ -155,7 +155,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
 **Status:** Completed in Aug 2021.
 
-## Certificates
+## Certifications
 - [Associate Data Analyst Certification, DataCamp](https://drive.google.com/file/d/1RSFn9M5iMueYjytszebnWacNy8xmwMjE/view?usp=sharing)
 - [Google Data Analytics](https://drive.google.com/file/d/1Ke1mWZAg6jmlPf1kyT5zXZRVe-p0TQyl/view?usp=sharing) (June 2022)
 - [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing) (Aug 2021)
