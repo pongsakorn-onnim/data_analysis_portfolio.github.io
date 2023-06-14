@@ -156,7 +156,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Status:** Completed in Aug 2021.
 
 ## Certifications
-- [Associate Data Analyst Certification, DataCamp] (https://drive.google.com/file/d/1RSFn9M5iMueYjytszebnWacNy8xmwMjE/view?usp=sharing) (Apr 17, 2023)
+- [Associate Data Analyst Certification, DataCamp](https://drive.google.com/file/d/1RSFn9M5iMueYjytszebnWacNy8xmwMjE/view?usp=sharing) (Apr 17, 2023)
 - [Google Data Analytics](https://drive.google.com/file/d/1Ke1mWZAg6jmlPf1kyT5zXZRVe-p0TQyl/view?usp=sharing) (June 2022)
 - [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing) (Aug 2021)
 
