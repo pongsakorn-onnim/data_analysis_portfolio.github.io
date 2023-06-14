@@ -159,9 +159,9 @@ Hi, My name is Pongsakorn Onnim. I hold a Bachelor of Engineering  in Environmen
 - [Python for Everybody](https://drive.google.com/file/d/1yYHlYxQlyZ3c_ob4rbO7tfmUYQ91lzKY/view?usp=sharing) (Aug 8, 2021)
 
 ## Contacts
-- LinkedIn: [Pongsakorn Onnim](https://www.linkedin.com/in/pongsakorn-onnim-160b52202/)
 - E-mail: pongsakorn.onnim@gmail.com
-- Tableau: [Pongsakorn Onnim](https://public.tableau.com/app/profile/pongsakorn.onnim)
 - Phone: 099-424-7788
+- LinkedIn: [Pongsakorn Onnim](https://www.linkedin.com/in/pongsakorn-onnim-160b52202/)
+
 
 
