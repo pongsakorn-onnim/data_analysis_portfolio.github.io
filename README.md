@@ -65,7 +65,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 ## Power BI project
 
 ### HR Analytics Dashboard
-**File:** [Case Study: HR analytics dashboard](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/tree/main/Course%209%20Case%20Study%20HR%20Analytics%20in%20Power%20BI)
+**File:** [HR analytics dashboard](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/tree/main/Course%209%20Case%20Study%20HR%20Analytics%20in%20Power%20BI)\
 **Description:** This Power BI case study focuses on analyzing and visualizing Human Resources data for Atlas Labs, a fictitious software company. Through exploratory data analysis, DAX calculations, and powerful visualizations, the project aims to uncover insights into employee attrition and the factors impacting it. The analysis will help the organization determine strategies to improve employee retention. Additionally, the case study includes making design changes to the report for a clean and branded presentation of the findings.\
 **Skills:** Data modeling, exploratory data analysis, and DAX.
 **Result:** The HR analytics dashboard that shows insights on attrition and employee retention factors.
