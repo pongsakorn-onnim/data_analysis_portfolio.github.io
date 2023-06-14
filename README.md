@@ -2,9 +2,7 @@
 
 ## About me
 
-Hi, My name is Pongsakorn Onnim. I hold a Bachelor of Engineering (Environmental Engineering). Currently, I'm looking for a data analyst job. I have skills in data analytic tools such as Python, R, SQL, Spreadsheet, and Tableau. I completed Google Data Analytics Professional Certificate and Python for Everybody from Coursera and worked with hands-on projects from these courses.
-
-Here is a repository to showcase skills, share projects and track my progress in Data analytics topics.
+Hi, My name is Pongsakorn Onnim. I hold a Bachelor of Engineering (Environmental Engineering). Currently, I'm looking for a data analyst job. I have skills in data analytic tools such as Excel, SQL, Power BI, and Python, and have some experience with Tableau and R. Here is a repository to showcase skills, share projects, and track my progress in Data analytics topics. 
 
 ## Table of contents
 - [About me](#about-me)
