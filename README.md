@@ -16,12 +16,17 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [What and Where are the World's Oldest Businesses](#what-and-where-are-the-worlds-oldest-businesses)
 - [Power BI project](#power-bi-project)
 	+ [HR Analytics Dashboard](#hr-analytics-dashboard)
-- [Python projects](#python-projects)	
-	+ [Analyzing Bike-Share Service](#analyzing-bike-share-service)
+- [Python projects](#python-projects)
+	+ [Video Game Sales Analysis](#video-game-sales-analysis) 	
 	+ [Analyzing TV Data](#analyzing-tv-data)
+	+ [Dr. Semmelweis and the Discovery of Handwashing](#dr-semmelweis-and-the-discovery-of-handwashing)
+	+ [Investigating Netflix Movies and Guest Stars in The Office](#investigating-netflix-movies-and-guest-stars-in-the-office)
+  	+ [What and Where are the World's Oldest Businesses](#what-and-where-are-the-worlds-oldest-businesses)
 	+ [Building a Simple Search Engine](#building-a-simple-search-engine)
 	+ [Spidering Modeling and Visualizing Email Data](#spidering-modeling-and-visualizing-email-data)
 	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)		
+- [R project](#r-project)
+	- [Analyzing Bike-Share Service](#analyzing-bike-share-service)
 - [Online courses](#online-courses)  
 	+ [Data Analyst with Python](#data-analyst-with-python)
 	+ [Google Data Analytics](#google-data-analytics)
@@ -72,19 +77,24 @@ Here is a repository to showcase skills, share projects and track my progress in
  
 ## Python projects
 
-### Analyzing Bike-Share Service
-**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
-**Description:** The bike-share company in Chicago(A fictional company) wants to design a new marketing strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.\
-**Skills:** Data cleansing, data analysis, data visualization.\
-**Technologies used:** R, tidyverse, lubridate, ggplot2.\
-**Results:** Key findings and recommendations based on the analysis.
-
 ### Analyzing TV Data
 **Code:** [analyzing_tv_data.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20TV%20Data/analyzing_tv_data.ipynb)\
 **Description:** This is the guided project from DataCamp looking to analyze the Super Bowl game, television, and halftime show data. It is designed for students to use a combination of data manipulation and visualization to generate insights into game outcomes, viewership, and halftime shows.\
 **Skills:** Data Manipulation, data visualization, importing & cleaning data.\
 **Technologies used:** Python, pandas, Matplotlib, Seaborn.\
 **Results:** The distributions of combined points, point differences, and halftime show performances, the relationship between ad cost and viewership, and the relationship between point differences and viewership.
+
+### Video Game Sales Analysis
+**Code:** [video-game-sales-analysis .ipynb](https://github.com/pongsakorn-onnim/Python_projects/blob/main/Video%20Game%20Sales%20Analysis/video-game-sales-analysis%20.ipynb)
+
+### Dr. Semmelweis and the Discovery of Handwashing
+**Code:** [notebook.ipynb](https://github.com/pongsakorn-onnim/Python_projects/blob/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
+
+### Investigating Netflix Movies and Guest Stars in The Office
+**Code:** [notebook.ipynb](https://github.com/pongsakorn-onnim/Python_projects/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/notebook.ipynb)
+
+### What and Where are the World's Oldest Businesses
+**Code:** [notebook.ipynb](https://github.com/pongsakorn-onnim/Python_projects/blob/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/notebook.ipynb)
 
 ### Building a Simple Search Engine
 **Code:** [Building a Simple Search Engine](https://github.com/pongsakorn-onnim/portfolio/tree/main/Building%20a%20Simple%20Search%20Engine) \
@@ -106,6 +116,15 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Skill:** Data visualization.\
 **Tool:** Tableau.\
 **Results:** I've learned three things from this mini hands-on project: 1. Creating basic visualizations 2. Creating dashboards 3. Joining data from multiple sources.   
+
+## R project
+
+### Analyzing Bike-Share Service
+**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
+**Description:** The bike-share company in Chicago(A fictional company) wants to design a new marketing strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.\
+**Skills:** Data cleansing, data analysis, data visualization.\
+**Technologies used:** R, tidyverse, lubridate, ggplot2.\
+**Results:** Key findings and recommendations based on the analysis.
 
 ## Online Courses
 
