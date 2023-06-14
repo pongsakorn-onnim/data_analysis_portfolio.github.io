@@ -27,8 +27,10 @@ Here is a repository to showcase skills, share projects and track my progress in
 	+ [Creating Visualizations and Dashboards in Tableau](#creating-visualizations-and-dashboards-in-tableau)		
 - [R project](#r-project)
 	- [Analyzing Bike-Share Service](#analyzing-bike-share-service)
-- [Online courses](#online-courses)  
-	+ [Data Analyst with Python](#data-analyst-with-python)
+- [Online courses](#online-courses)
+	- [Data Analyst in Power BI, DataCamp](#data-analyst-in-power-bi-datacamp)
+	+ [Data Analyst with Python, DataCamp](#data-analyst-with-python-datacamp)
+	+ [Data Analyst in SQL, DataCamp](#data-analyst-in-sql-datacamp)
 	+ [Google Data Analytics](#google-data-analytics)
 	+ [Python for Everybody](#python-for-everybody)	
 - [Certificates](#certificates)
@@ -71,9 +73,9 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### HR Analytics Dashboard
 **File:** [HR analytics dashboard](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/tree/main/Course%209%20Case%20Study%20HR%20Analytics%20in%20Power%20BI)\
-**Description:** This Power BI case study is part of the Data Analyst in Power BI track from DataCamp. It focuses on analyzing and visualizing Human Resources data for Atlas Labs, a fictitious software company. Through exploratory data analysis, DAX calculations, and powerful visualizations, the project aims to uncover insights on employee attrition and the factors impacting it. The analysis will help the organization determine strategies to improve employee retention. Additionally, the case study includes making design changes to the report for a clean and branded presentation of the findings.\
+**Description:** This Power BI case study is part of the Data Analyst in Power BI track from DataCamp. It focuses on analyzing and visualizing Human Resources data for Atlas Labs, a fictitious software company. Through exploratory data analysis, DAX calculations, and powerful visualizations, the project aims to uncover insights into employee attrition and the factors impacting it. The analysis will help the organization determine strategies to improve employee retention. Additionally, the case study includes making design changes to the report for a clean and branded presentation of the findings.\
 **Skills:** Data modeling, exploratory data analysis, and DAX.\
-**Result:** The HR analytics dashboard that shows insights on attrition and employee retention factors.
+**Result:** The HR analytics dashboard shows insights on attrition and employee retention factors.
  
 ## Python projects
 
@@ -81,7 +83,7 @@ Here is a repository to showcase skills, share projects and track my progress in
 **Code:** [analyzing_tv_data.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20TV%20Data/analyzing_tv_data.ipynb)\
 **Description:** This is the guided project from DataCamp looking to analyze the Super Bowl game, television, and halftime show data. It is designed for students to use a combination of data manipulation and visualization to generate insights into game outcomes, viewership, and halftime shows.\
 **Skills:** Data Manipulation, data visualization, importing & cleaning data.\
-**Technologies used:** Python, pandas, Matplotlib, Seaborn.\
+**Technologies used:** Python, pandas, matplotlib, Seaborn.\
 **Results:** The distributions of combined points, point differences, and halftime show performances, the relationship between ad cost and viewership, and the relationship between point differences and viewership.
 
 ### Video Game Sales Analysis
@@ -98,17 +100,17 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ### Building a Simple Search Engine
 **Code:** [Building a Simple Search Engine](https://github.com/pongsakorn-onnim/portfolio/tree/main/Building%20a%20Simple%20Search%20Engine) \
-**Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. (Note: This project has sample codes and lectures to help students focus on the process of web crawling, index building and viusalzing data.)\
+**Description:** This project is designed for students to have experience running a simple version of the Google PageRank Algorithm and practicing spidering some content. (Note: This project has sample codes and lectures to help students focus on the process of web crawling, index building, and visualizing data.)\
 **Skills:** Python, database, data visualization.\
 **Technology:** Python, SQL, sqlite3, urllib, BeautifulSoup.\
 **Result:** The visualization of ranking web pages.
 
 ### Spidering Modeling and Visualizing Email Data
 **Code:** [Spidering Modeling and Visualizing Email Data](https://github.com/pongsakorn-onnim/portfolio/tree/main/Spidering%2C%20Modeling%2C%20and%20Visualizing%20Email%20Data)\
-**Description:** This project is about retrieving, cleaning, modeling, visualizing the email data from the Sakai open source project in 2004-2011. (Note: This project has sample codes and lectures to help students focus on the process of spidering, modeling, and visualizing data)\
+**Description:** This project is about retrieving, cleaning, modeling, and visualizing email data from the Sakai open-source project in 2004-2011. (Note: This project has sample codes and lectures to help students focus on the process of spidering, modeling, and visualizing data)\
 **Skills:** Python, database, data visualization.\
 **Technologies used:** Python, SQL, sqlite3, urllib.\
-**Results:** The visualizations of the words frequency distribution and email participation by organizations over time.
+**Results:** The visualizations of the word frequency distribution and email participation by organizations over time.
 
 ### Creating Visualizations and Dashboards in Tableau
 **My Tableau Profile:** [Pongsakorn Onnim](https://public.tableau.com/app/profile/pongsakorn.onnim)\
@@ -128,23 +130,27 @@ Here is a repository to showcase skills, share projects and track my progress in
 
 ## Online Courses
 
-### Data Analyst with Python
+### Data Analyst in Power BI, DataCamp
+**Completed on:** DEC 07, 2022
+
+### Data Analyst with Python, DataCamp
 **Description:** This course from [DataCamp](https://app.datacamp.com/learn) will teach students how to import, clean, manipulate, and visualize data through interactive exercises. The students will get hands-on with Python libraries, including pandas, Numpy, Seaborn, and more. The students will also gain experience working with real-world datasets to grow data manipulation and exploratory data analysis skills before moving on to statistics skills and performing hypothesis testing. [The course official page.](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6) \
-**Skills gained from the course:** Manipulating data, visualizing data, statistics. \
-**Tool:** Python. \
-**Hands-on Projects:** [Analyzing TV Data](#analyzing-tv-data) \
-**Status:** In Progress.
+**Skills gained from the course:** Manipulating data, visualizing data, and statistics. 
+**Completed on:** APR 14, 2023 \
+
+### Data Analyst in SQL, DataCamp
+**Completed on:** SEP 14, 2022
 
 ### Google Data Analytics
-**Description:** This course from [Coursera](https://www.coursera.org/) is a path for students to gain in-demand skills that prepare them for an entry-level data analyst job. The students will learn the processes used by data analyst, analytical skills and tools, and understand how to clean, organize and visualize data. [The course official page.](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE) \
-**Skills gained from the course:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization. \
+**Description:** This course from [Coursera](https://www.coursera.org/) is a path for students to gain in-demand skills that prepare them for an entry-level data analyst job. The students will learn the processes used by data analysts, analytical skills and tools, and understand how to clean, organize and visualize data. [The course official page.](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIErj3Nu4Qg9uvpXXpoMSwKVq9CTXE9zrt0-79c3Y9hI0iWzs_nnNmRoCgygQAvD_BwE) \
+**Skills gained from the course:** Data cleaning, problem-solving, critical thinking, data ethics, and data visualization. \
 **Platforms and Tools:** Spreadsheets, SQL, Tableau, and R Programming. \
 **Hands-on Projects:** [Analyzing Bike-Share Service](#analyzing-bike-share-service) \
 **Status:** Completed in Jun 2022.
 
 ### Python for Everybody
 **Description:** This [Coursera](https://www.coursera.org/) Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization. [The course official page.](https://www.coursera.org/specializations/python)\
-**Skills gained from the course:** Python, database, SQL, Sqlite, data structure, web scraping, Json, and Xml \
+**Skills gained from the course:** Python, database, SQL, SQLite, data structure, web scraping, Json, and Xml \
 **Platforms and Tools:** Atom, DB Browser(SQLite) \
 **Hands-on Projects:** [Building a Simple Search Engine](#building-a-simple-search-engine), [Spidering and Modeling Email Data](#spidering-and-modeling-email-data)\
 **Status:** Completed in Aug 2021.
