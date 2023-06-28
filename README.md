@@ -122,7 +122,7 @@ Hi, My name is Pongsakorn Onnim. I hold a Bachelor of Engineering  in Environmen
 ## R project
 
 ### Analyzing Bike-Share Service
-**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/portfolio/blob/main/Analyzing%20Bike-Share%20Service(R)/cyclistic-case-study.ipynb)\
+**Code:** [cyclistic-case-study.ipynb](https://github.com/pongsakorn-onnim/R_projects/blob/main/Analyzing%20Bike-Share%20Service/cyclistic-case-study.ipynb)\
 **Description:** The bike-share company in Chicago(A fictional company) wants to design a new marketing strategy to convert casual riders into annual members. Therefore, the company needs to understand how casual riders and annual members use bikes differently by analyzing customer trends from the historical bike trip data.\
 **Skills:** Data cleansing, data analysis, data visualization.\
 **Technologies used:** R, tidyverse, lubridate, ggplot2.\
